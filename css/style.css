@@ -10,7 +10,7 @@
 body {
   font-family: "DM Sans", sans-serif;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 22px;
   line-height: 1.7;
   color: #0077b6;
   background: #f5f7fa;
@@ -44,7 +44,7 @@ body {
 }
 
 a {
-  color: #FF9000;
+  color: #ff477e;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
